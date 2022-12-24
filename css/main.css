@@ -16,6 +16,11 @@ a{
     transition: 300ms ease-in-out;                             
 }
 
+.link-href{
+    font-weight: bolder;
+    color: black;
+}
+
 input{
     outline: none;
     width: 100%;
